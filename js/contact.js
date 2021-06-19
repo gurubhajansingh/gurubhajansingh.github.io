@@ -55,7 +55,6 @@ $(document).ready(function(){
                 }
             },
             submitHandler: function(form) {
-                // window.location = \"mailto:info@abc.com?cc=boss@abc.com&bcc=".$emails."&subject=Hello\";
                 window.location = \"mailto:gurubhajansingh@gmail.com;subject="+subject+";body=Name:"+name+"<b/>Email:"+email+"<b/>Message:"+message+" ";
                 // $(form).ajaxSubmit({
                 //     type:"POST",
