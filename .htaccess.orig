@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+RewriteEngine on
+
+
+RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+RewriteRule ^ /%1 [NC,L,R]
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html [NC,L]
+||||||| 123112d
+=======
+RewriteRule On
+RewriteRule ^(.*)\.html$ /$1 [L,R=301]
+>>>>>>> d3c1e22df70046433878cbbb9df15cf2d5e32fc7
