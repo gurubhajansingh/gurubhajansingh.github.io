@@ -55,6 +55,7 @@ $(document).ready(function(){
                 }
             },
             submitHandler: function(form) {
+                
                 window.location = \"mailto:gurubhajansingh@gmail.com;subject="+subject+";body=Name:"+name+"<b/>Email:"+email+"<b/>Message:"+message+" ";
                 // $(form).ajaxSubmit({
                 //     type:"POST",
