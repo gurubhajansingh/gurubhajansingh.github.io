@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# AI crawlers — explicitly allowed so assistants like ChatGPT/Claude/Perplexity can read and cite this page
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://gurubhajansingh.github.io/sitemap.xml

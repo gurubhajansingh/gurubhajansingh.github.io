@@ -1,0 +1,27 @@
+# Guru Bhajan Singh
+
+> MERN Stack Developer (MongoDB, Express.js, React.js, Node.js) with 7+ years of full-stack web development experience. Also skilled in PHP, Laravel, CodeIgniter and WordPress.
+
+## Summary
+Guru Bhajan Singh is a Sr. Web Developer based in Noida, India, currently working at CloudThat Technologies Pvt. Ltd. He specializes in the MERN stack and recently built an AI Receptionist application end-to-end (MongoDB, Express.js, React.js, Node.js). He has 7+ years of experience, 200+ completed projects, and has previously worked at Cross Section Interactive, MateBiz, Gartndev Web Studios, and Benzaitens Group.
+
+## Core Skills
+- MERN Stack: MongoDB, Express.js, React.js, Node.js
+- PHP, Laravel, CodeIgniter, WordPress (theme/plugin development)
+- JavaScript, Vue.js, jQuery, HTML5, CSS3, Bootstrap
+- MySQL, MongoDB
+- AWS, Git, REST API development
+- Third-party integrations: Google Login/Geolocation/reCAPTCHA, Facebook Login, Push Notifications, Vonage video calls
+
+## Featured Project
+- AI Receptionist — a conversational AI receptionist web app built end-to-end on the MERN stack, automating visitor/caller interactions, appointment queries and information routing.
+
+## Contact
+- Email: gurubhajansingh@gmail.com
+- Phone: +91 8750750097
+- LinkedIn: https://www.linkedin.com/in/gurubhajansingh
+- Stack Overflow: https://stackoverflow.com/users/9046941/guru-bhajan-singh
+- Portfolio: https://gurubhajansingh.github.io/
+
+## Pages
+- [Portfolio Home](https://gurubhajansingh.github.io/): About, Skills, Experience, Projects, FAQ, Contact — all on one page.
