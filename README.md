@@ -46,16 +46,6 @@ This portfolio is engineered, not just designed:
 - ♿ **Accessible** — semantic landmarks, reduced-motion support, keyboard-navigable
 - 🗺️ **Crawl-ready** — `robots.txt` and `sitemap.xml` included for search engine indexing
 
-## Run Locally
-
-No build tools required — it's a static site.
-
-```bash
-git clone https://github.com/gurubhajansingh/gurubhajansingh.github.io.git
-cd gurubhajansingh.github.io
-# then just open index.html in your browser, or serve it:
-python3 -m http.server 8080
-```
 
 ## Experience Snapshot
 
