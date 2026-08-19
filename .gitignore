@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Env / secrets (if ever added later)
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Old build tooling (no longer used by this static site)
+prepros-6.config
